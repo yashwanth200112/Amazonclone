@@ -1,0 +1,3 @@
+<a href="URL_of_the_image">
+  <img src="URL_of_the_image" alt="description of the image" />
+</a>
