@@ -1,2 +1,2 @@
-redmi 20000
-realme 10000
+redmi 20000  description good
+realme 10000 description
